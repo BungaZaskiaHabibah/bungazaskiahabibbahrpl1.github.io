@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.logo{
+    color: white;
+}
+nav ul{
+    display: flex;
+}
+
+nav ul {
+    justify-content: center;
+
+}
+
+nav ul li{
+    text-decoration: none;
+    padding: 8px 16px;
+}
+
+nav ul li a{
+    color: gray;
+    text-decoration: none;
+}
+
+div .navbar >div .logo{
+    width: 80px;
+    margin: 20px;
+    text-align: center;
+    
+
+}
+
+div.navbar .logo {
+    padding-top: 8px;
+    width: 100%;
+    background-color: black ;
+    width: 1300px;
+    height: 60px;
+    
+}
+ ul li{
+    align-items: center;
+    text-align: center;
+}
+
+.navbar ul li{
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+nav ul li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    margin-top: -10px;
+}
+
+nav ul li a{
+    margin-top: -10px;
+}
+
+nav ul li{
+    font-size: 13px;
+}
+
+.navbar ul li {
+    text-align: center;
+}
+
+.navbar ul li a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
